@@ -4,7 +4,7 @@
 - 💞️ I'm focused on my project to create a Spotify playlist based on the description of any book I'm reading.
 - 📫 You can reach me at sscudder68 at gmail.com
 
-Naming rules for repositories<br>
+### Naming rules for repositories:
 A repository that starts with MW will be my work<br>
 A repository that starts with P is practice<br>
 Inside the bootcamp repository is all the work I did while in bootcamp. Some of these were done in a group (G) and some are individual (I)
